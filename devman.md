@@ -8,15 +8,6 @@ So, at the heart of this part of the project is the requirement to securely dist
 
 As part of our research we have implemented a prototype update mechanism that addresses the issues stated above. We use this mechanism in a demonstrator that we have developed in collaboration with the municipality of Helsingborg.
 
-<!--
-### Palcom introduction
-Our updating mechanism builds on concepts from Palcom, a framework for building IoT systems, and is implemented using the Palcom middleware toolkit. This video gives an introduction to these concepts and basic building blocks of Palcom.
--->
-
-<!-- Palcom Introduction -->
-<!--
-{% include youtubePlayer.html id="Ln4c5Lm_Y60" %}
--->
 
 ### Automatic updates
 This video describes the automatic update mechanism implemented in Palcom.
@@ -24,14 +15,6 @@ This video describes the automatic update mechanism implemented in Palcom.
 <!-- Automatic Updates -->
 {% include youtubePlayer.html id="AU63XRrFu4M" %}
 
-<!--
-### ComPOS
-This video introduces ComPOS, a composition language used in Palcom. ComPOS is used for composing and coordinating services.
--->
-<!-- ComPOS Introduction -->
-<!--
-{% include youtubePlayer.html id="0X-kS9hSYxY" %}
--->
 
 ### EDOC 2020 Demo video
 This demo video was shown at the EDOC 2020 Conference and won the Best Demo award. It showcases our update mechanism using one of the demonstrator scenarios of the project that we have developed together with the municipality of Helsingborg.
@@ -39,14 +22,6 @@ This demo video was shown at the EDOC 2020 Conference and won the Best Demo awar
 <!-- EDOC 2020 Demo video -->
 {% include youtubePlayer.html id="TVLZfQT-IRo" %}
 
-<!--
-### ComPOS - a Domain-Specific Language for Composing Internet-of-Things Systems
-This video is the PhD thesis presentation of Alfred Åkesson. It gives a more detailed presentation of ComPOS.
--->
-<!-- ComPOS Thesis (30 min) -->
-<!--
-{% include youtubePlayer.html id="tkFkQy3BJ18" %}
--->
 
 ### REBLS 2023 video
 This video presents ComPOS, a composition language used for composing IoT systems with weak connectivity, presented at the 10th ACM SIGPLAN International Workshop on Reactive and Event-Based Languages and Systems (REBLS), 2023.
@@ -54,9 +29,7 @@ This video presents ComPOS, a composition language used for composing IoT system
 {% include youtubePlayer.html id="Z4SRR1iA3jE" %}
 
 ### People involved in this part of the project
-<!--
-* [Alfred Åkesson](https://portal.research.lu.se/en/persons/alfred-åkesson)
--->
+
 * Alfred Åkesson
 * [Mattias Nordahl](https://portal.research.lu.se/en/persons/mattias-nordahl)
 * [Görel Hedin](https://portal.research.lu.se/en/persons/görel-hedin)
